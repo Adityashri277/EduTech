@@ -18,7 +18,7 @@ This project was built to apply theoretical concepts of frontend development—p
 
 
 🛠️ Technologies Used:-
-Tailwind CSS
-HTML5
+Tailwind CSS,
+HTML5,
 Vanilla JavaScript
 
