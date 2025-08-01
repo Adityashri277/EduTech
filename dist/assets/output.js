@@ -65,6 +65,7 @@
       <div id="phonesize" class="md:hidden block relative z-10">
         <img
           src="dist/assets/MVersion.jpg"
+          loading="eager"
           class="h-full w-full opacity-65"
           alt=""
         />
