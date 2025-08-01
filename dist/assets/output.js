@@ -64,7 +64,7 @@
     >
       <div id="phonesize" class="md:hidden block relative z-10">
         <img
-          src="dist/assets/MobileVersion.jpg"
+          src="dist/assets/MVersion.jpg"
           class="h-full w-full opacity-65"
           alt=""
         />
@@ -88,7 +88,7 @@
         <img
           class="w-full h-auto opacity-55 py-20"
           loading="eager"
-          src="dist/assets/LaptopVersion.jpg"
+          src="dist/assets/LVersion.jpg"
           alt=""
         />
         <div
